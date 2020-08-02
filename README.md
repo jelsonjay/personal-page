@@ -1,5 +1,5 @@
 # Personal-page
-Personal web page with a different type of projects using html5, css3
+Personal web page with a different type of projects using html5, css3 & vanilla javascript
 
 [Access My Project](https://jelsonjay.github.io/personal-page/)
 
